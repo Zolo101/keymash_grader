@@ -1,0 +1,40 @@
+.grade {
+    font-weight: bold;
+}
+
+.grade-1 {
+    color: black;
+}
+
+.grade-2 {
+    color: darkolivegreen;
+}
+
+.grade-3 {
+    color: grey;
+}
+
+.grade-4 {
+    color: green;
+}
+
+.grade-5 {
+    color: #8ed327;
+}
+
+.grade-6 {
+    color: goldenrod;
+}
+
+.grade-7 {
+    color: gold;
+}
+
+.grade-8 {
+    color: orange;
+}
+
+.grade-9 {
+    color: #ff5e00;
+    text-shadow: 0px 0px 4px orange;
+}

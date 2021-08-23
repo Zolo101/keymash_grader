@@ -1,0 +1,36 @@
+.counter-main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.counter-info {
+    text-align: center;
+}
+
+.counter-input {
+    width: 100%;
+    font-size: 2rem;
+}
+
+.counter-button {
+    padding: 5px 10px;
+    margin: 5px 0px;
+    font-size: 1em;
+}
+
+.countdown {
+    margin: 0px;
+    font-size: 10rem;
+    line-height: 10rem;
+    text-align: center;
+}
+
+.countdown-prerun {
+    color: orange;
+}
+
+.countdown-running {
+    color: green;
+}
